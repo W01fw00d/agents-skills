@@ -1,3 +1,6 @@
+# Custom
+notes.txt
+
 # Dependencies
 node_modules/
 package-lock.json
@@ -18,7 +21,7 @@ Thumbs.db
 # Logs
 *.log
 
-# Custom
-notes.txt
+
 # Playwright CLI output (may contain credentials)
 .playwright-cli/
+.playwright
