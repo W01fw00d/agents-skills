@@ -12,6 +12,7 @@ These skills extend AI Agents capabilities with specialized instructions and res
 | `playwright-cli`               | Automate browser interactions, test web pages, and work with Playwright tests via command line.                                                                                               | [playwright.dev/agent-cli/skills](https://playwright.dev/agent-cli/skills)         |
 | `playwright-component-testing` | Set up component testing with Playwright using a story gallery — scaffold stories and a gallery dev page driven by the built-in mount fixture, without a dedicated component-testing runtime. | [playwright.dev/docs/test-components](https://playwright.dev/docs/test-components) |
 | `playwright-trace`             | Inspect Playwright trace files from the command line — list actions, view requests, console, errors, snapshots, and screenshots.                                                              | [playwright.dev/docs/trace-viewer](https://playwright.dev/docs/trace-viewer)       |
+| mattpocock skills              | Multiple skills that cover different development process phases                                                                                                                               | [github.com/mattpocock/skills](https://github.com/mattpocock/skills)               |
 
 ## Usage
 
